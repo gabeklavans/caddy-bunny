@@ -4,7 +4,7 @@ FROM caddy:${CADDY_VERSION}-builder AS builder
 
 # Build Caddy with the Bunny DNS module
 RUN xcaddy build \
-    --with github.com/caddy-dns/bunny \
+    --with github.com/caddy-dns/bunny
 
 # Final stage
 FROM caddy:${CADDY_VERSION}
