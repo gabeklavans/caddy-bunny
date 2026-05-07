@@ -1,0 +1,10 @@
+{
+  "last_checked": "2026-05-07T00:38:14.173896+00:00",
+  "modules": {
+    "github.com/caddy-dns/bunny": {
+      "repo": "caddy-dns/bunny",
+      "last_commit_sha": "13f5878493fabfc95d5d241e069708fc9431451a",
+      "last_checked": "2026-05-07T00:38:14.173853+00:00"
+    }
+  }
+}
